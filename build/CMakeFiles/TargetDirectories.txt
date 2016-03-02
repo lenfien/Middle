@@ -1,0 +1,2 @@
+/Users/lenmac/Documents/Lab/ClionProjects/Middle/build/CMakeFiles/MiddleTest.dir
+/Users/lenmac/Documents/Lab/ClionProjects/Middle/build/CMakeFiles/Middle.dir
